@@ -2,3 +2,5 @@
 MAINTENANCE.md
 walkthrough.md
 .agent/rules/
+.gemini/
+LOCAL_CONFIG.md
