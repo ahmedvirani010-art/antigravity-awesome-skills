@@ -25,14 +25,18 @@ This repository aggregates the best capabilities from across the open-source com
 
 The repository is organized into several key areas of expertise:
 
-| Category                 | Skills Included                                                                        |
-| :----------------------- | :------------------------------------------------------------------------------------- |
-| **🎨 Creative & Design** | UI/UX Pro Max, Frontend Design, Canvas, Algorithmic Art, Theme Factory, D3 Viz         |
-| **🛠️ Development**       | TDD, Systematic Debugging, Webapp Testing, Backend/Frontend Guidelines, React Patterns |
-| **🛡️ Cybersecurity**     | Ethical Hacking, Metasploit, Burp Suite, SQLMap, AWS Pentesting, OWASP Top 100         |
-| **🛸 Autonomous**        | **Loki Mode** (Startup-in-a-box), Subagent Orchestration, Parallel Execution           |
-| **📈 Strategy**          | Product Manager Toolkit, Content Creator, ASO, Doc Co-authoring, Brainstorming         |
-| **🏗️ Infrastructure**    | Linux Shell Scripting, Git Worktrees, Conventional Commits, File Organization          |
+| Category                    | Skills Count | Key Skills Included                                                                                                          |
+| :-------------------------- | :----------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| **🛡️ Cybersecurity**        | **~50**      | Ethical Hacking, Metasploit, Burp Suite, SQLMap, Active Directory, AWS/Cloud Pentesting, OWASP Top 100, Red Team Tools       |
+| **🛠️ Development**          | **~25**      | TDD, Systematic Debugging, React Patterns, Backend/Frontend Guidelines, Senior Fullstack, Software Architecture              |
+| **🎨 Creative & Design**    | **~10**      | UI/UX Pro Max, Frontend Design, Canvas, Algorithmic Art, Theme Factory, D3 Viz, Web Artifacts                                |
+| **🤖 AI & LLM Development** | **~8**       | LLM App Patterns, Autonomous Agent Patterns, Prompt Engineering, Prompt Library, JavaScript Mastery, Bun Development         |
+| **🛸 Autonomous & Agentic** | **~8**       | Loki Mode (Startup-in-a-box), Subagent Driven Dev, Dispatching Parallel Agents, Planning With Files, Skill Creator/Developer |
+| **📄 Document Processing**  | **~4**       | DOCX (Official), PDF (Official), PPTX (Official), XLSX (Official)                                                            |
+| **📈 Product & Strategy**   | **~8**       | Product Manager Toolkit, Content Creator, ASO, Doc Co-authoring, Brainstorming, Internal Comms                               |
+| **🏗️ Infrastructure & Git** | **~8**       | Linux Shell Scripting, Git Worktrees, Git Pushing, Conventional Commits, File Organization, GitHub Workflow Automation       |
+| **🔄 Workflow & Planning**  | **~6**       | Writing Plans, Executing Plans, Concise Planning, Verification Before Completion, Code Review (Requesting/Receiving)         |
+| **🧪 Testing & QA**         | **~4**       | Webapp Testing, Playwright Automation, Test Fixing, Testing Patterns                                                         |
 
 ---
 
