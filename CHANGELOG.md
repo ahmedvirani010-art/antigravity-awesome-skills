@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **10 OpenWork skills** from [different-ai/openwork](https://github.com/different-ai/openwork):
+- **10 OpenWork skills** from [ahmedvirani010-art/openwork](https://github.com/ahmedvirani010-art/openwork):
   - `browser-setup-devtools`: Browser automation and DevTools setup
   - `get-started`: Getting started guide for OpenWork
   - `opencode-bridge`: OpenCode integration and bridging
