@@ -406,6 +406,7 @@ This collection would not be possible without the incredible work of the Claude 
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**: Marketing skills for CRO, copywriting, SEO, paid ads, and growth (23 skills, MIT).
 - **[vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)**: AI Agent templates with Skills, Agents, and Workflows (33 skills, MIT).
 - **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: Complete Claude Code configuration collection from Anthropic hackathon winner - skills only (8 skills, MIT).
+- **[different-ai/openwork](https://github.com/different-ai/openwork)**: OpenWork skills - OpenCode integration, Tauri/SolidJS patterns, and workflow automation (10 skills, MIT).
 
 ### Inspirations
 

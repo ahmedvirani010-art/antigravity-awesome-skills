@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [Unreleased] - 2026-01-30 - "OpenWork Integration"
+
+### Added
+
+- **10 OpenWork skills** from [different-ai/openwork](https://github.com/different-ai/openwork):
+  - `browser-setup-devtools`: Browser automation and DevTools setup
+  - `get-started`: Getting started guide for OpenWork
+  - `opencode-bridge`: OpenCode integration and bridging
+  - `opencode-mirror`: OpenCode repository mirroring
+  - `opencode-primitives`: Core OpenCode primitives and patterns
+  - `openwork-core`: Core OpenWork context and guardrails
+  - `openwork-debug`: Debugging utilities for OpenWork
+  - `release`: Release management workflows
+  - `solidjs-patterns`: SolidJS patterns and best practices
+  - `tauri-solidjs`: Tauri + SolidJS integration patterns
+
+### Changed
+
+- Total skills count: **243**
+- Added OpenWork to Credits & Sources section
+
+---
+
 ## [1.0.0] - 2026-01-19 - "Marketing Edition"
 
 ### Added
